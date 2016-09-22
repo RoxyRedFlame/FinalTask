@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<V8Exch:_1CV8DtUD xmlns:V8Exch="http://www.1c.ru/V8/1CV8DtUD/" xmlns:core="http://v8.1c.ru/data" xmlns:v8="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<V8Exch:Data>
+		<v8:InformationRegisterRecordSet.ПериодДействияАкций>
+			<v8:Filter>
+				<FilterItem xmlns="http://v8.1c.ru/8.1/data/enterprise">
+					<Name xsi:type="xs:string">ДатаНачалаАкции</Name>
+					<Value xsi:type="xs:dateTime">2016-08-01T00:00:00</Value>
+				</FilterItem>
+			</v8:Filter>
+			<v8:Record>
+				<v8:ДатаНачалаАкции>2016-08-01T00:00:00</v8:ДатаНачалаАкции>
+				<v8:Акция xsi:type="v8:CatalogRef.Акция">9c2a3ac3-7fe9-11e6-a89c-10bf48e1fe72</v8:Акция>
+			</v8:Record>
+		</v8:InformationRegisterRecordSet.ПериодДействияАкций>
+		<v8:InformationRegisterRecordSet.ПериодДействияАкций>
+			<v8:Filter>
+				<FilterItem xmlns="http://v8.1c.ru/8.1/data/enterprise">
+					<Name xsi:type="xs:string">ДатаНачалаАкции</Name>
+					<Value xsi:type="xs:dateTime">2016-09-01T00:00:00</Value>
+				</FilterItem>
+			</v8:Filter>
+			<v8:Record>
+				<v8:ДатаНачалаАкции>2016-09-01T00:00:00</v8:ДатаНачалаАкции>
+				<v8:Акция xsi:type="v8:CatalogRef.Акция">9c2a3ac4-7fe9-11e6-a89c-10bf48e1fe72</v8:Акция>
+			</v8:Record>
+		</v8:InformationRegisterRecordSet.ПериодДействияАкций>
+	</V8Exch:Data>
+	<PredefinedData/>
+</V8Exch:_1CV8DtUD>
